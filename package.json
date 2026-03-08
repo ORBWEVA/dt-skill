@@ -1,0 +1,12 @@
+{
+  "name": "dt-skill",
+  "version": "1.0.0",
+  "description": "Design Thinking skill for Claude Code — human-centered problem solving before you write code",
+  "keywords": ["claude-code", "skills", "design-thinking", "ux", "product"],
+  "author": "ORBWEVA",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ORBWEVA/dt-skill.git"
+  }
+}
