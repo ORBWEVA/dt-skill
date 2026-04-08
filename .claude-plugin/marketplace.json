@@ -2,6 +2,6 @@
   "name": "dt-skill",
   "owner": {"name": "ORBWEVA"},
   "plugins": [
-    {"name":"design-thinking","source":".","description":"Guide users through human-centered design thinking for product features, systems, dashboards, and architecture decisions. Use when user wants to design a new feature, rethink a user flow, plan a dashb","version":"1.0.0","author":{"name":"ORBWEVA"},"repository":"https://github.com/ORBWEVA/dt-skill"}
+    {"name":"design-thinking","source":{"source":"github","repo":"ORBWEVA/dt-skill"},"description":"Guide users through human-centered design thinking for product features, systems, dashboards, and architecture decisions. Use when user wants to design a new feature, rethink a user flow, plan a dashb","version":"1.0.0","author":{"name":"ORBWEVA"}}
   ]
 }
